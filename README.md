@@ -2,7 +2,13 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rh101&show_icons=true&locale=en" alt="RH101" />
+<img src="https://github-readme-stats.vercel.app/api?username=rh101&show_icons=true&locale=en" alt="RH" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rh101&" alt="RH" />
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rh101&langs_count=8&hide=HTML,CSS,Vue&layout=compact" alt="RH" />
 
 </p>
 
