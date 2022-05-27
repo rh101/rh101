@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rh101&show_icons=true&locale=en" alt="RH101" />
+
+</p>
+
 <!--
 **rh101/rh101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
